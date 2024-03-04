@@ -1,0 +1,46 @@
+
+.container{   
+    width: 400px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main_container{
+    width: 400px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    width: 50px;
+    height: 50px;
+    margin-left:60px;
+}
+button{
+    /* margin-left:40px; */
+    width: 20%;
+    height: 20px;
+    margin-left: 45px;
+    margin-top:10px;
+    border: none;
+    background-color: rgb(245, 75, 75);
+    color: white;
+}
+button:hover{
+    opacity: 0.6;
+}
+.active{
+    
+}
+#questions{
+    border-style: solid;
+  border-color: rgb(212, 208, 208);
+    border-radius: 2px;
+    margin-bottom: 20px;
+    .input{
+        height: 60px;
+    }
+}
+#submit{
+    margin-left: 140px;
+}
